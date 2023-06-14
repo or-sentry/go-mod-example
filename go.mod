@@ -6,4 +6,6 @@ require (
 	github.com/gorilla/mux v1.6.2
 	github.com/sirupsen/logrus v1.2.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6 // indirect
+	github.com/txthinking/brook *
+	github.com/rancher/rancher v2.6.0
 )
